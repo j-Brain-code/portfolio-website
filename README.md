@@ -17,8 +17,6 @@
     </nav>
   </header>
   <section id="about">
-    <h2>About Me</h2>
-    <p>Sheethal T G, Final year Engineering-2023 ,Tiptur , Karnataka..</p>
   </section>
   <section id="work">
     <h2>My Work</h2>
